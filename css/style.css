@@ -1,0 +1,120 @@
+.header {
+}
+
+.logo_link {
+  display: inline-block;
+}
+.logo {
+  display: inline-block;
+}
+.sitenav_list {
+  display: inline-block;
+  margin-bottom: 15px;
+}
+.sitelist_item {
+  display: inline-block;
+}
+.sitenav_link {
+  text-decoration: none;
+  padding: 10px;
+  text-transform: uppercase;
+}
+.qabulga_yozilish_button {
+  text-decoration: none;
+  background-color: #2edea9;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-transform: uppercase;
+}
+.hero {
+  background-color: #0eb4c1;
+}
+.hero_text {
+  display: inline-block;
+  width: 500px;
+}
+.heroh1 {
+  display: inline-block;
+  color: white;
+}
+.hero_description {
+  display: inline-block;
+  color: white;
+}
+
+.xizmatlar_list {
+  list-style: none;
+}
+.xizmatlar_list_item {
+  text-decoration: none;
+}
+.xizmatlar {
+  text-align: center;
+}
+.qabulga_yozilish_button_main {
+  text-decoration: none;
+  background-color: #4d1824;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 50px;
+}
+.doktor {
+  display: inline-block;
+  width: 423;
+  margin-left: 150px;
+}
+.button_main {
+  text-align: center;
+}
+.contact {
+  background-color: #0b2885;
+}
+.contact_list {
+  list-style: none;
+  text-align: center;
+  margin: 20px;
+}
+.contact_qabul {
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+.contact_list_item {
+  border: 2px solid white;
+  display: inline-block;
+  border-radius: 8px;
+  margin: 10px;
+}
+.contact_link {
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+}
+.footer {
+  background-color: black;
+}
+.footernav_list {
+  list-style: none;
+}
+.logo_link {
+  display: inline-block;
+}
+.logo_white {
+  display: inline-block;
+}
+.footernav_list {
+  display: inline-block;
+}
+.footerlist_item {
+  display: inline-block;
+  margin: 10px;
+}
+.footer_link {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
